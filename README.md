@@ -1,4 +1,4 @@
-# node-globule
+# node-globule [DEPRECATED]
 
 An easy-to-use wildcard globbing library.
 
