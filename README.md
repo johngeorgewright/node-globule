@@ -1,6 +1,12 @@
-# globule [![Build Status](https://secure.travis-ci.org/cowboy/node-globule.png?branch=master)](http://travis-ci.org/cowboy/node-globule)
+# node-globule
 
 An easy-to-use wildcard globbing library.
+
+# Reason for fork
+
+It is not clear why it was forked. There are no changes which have been made compared to upstream.
+
+# Oficial readme
 
 ## Getting Started
 Install the module with: `npm install globule`
