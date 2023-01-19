@@ -8,7 +8,6 @@ It is not clear why it was forked. There are no changes which have been made com
 
 # Oficial readme
 
-## Getting Started
 Install the module with: `npm install globule`
 
 ```javascript
